@@ -1,0 +1,30 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.container{
+	border:2px solid gray;
+	width:25%;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	align-items:center;
+	padding:30px;
+}
+
+.box{
+	width:5%;
+	border:2px solid gray;
+	background-color:#535c68;
+	padding:30px;
+	margin:10px;
+	
+}
+.main_container{
+	
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	margin-top:150px;
+}
